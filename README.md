@@ -2,52 +2,17 @@
 
 ### 🚀 Backend & AI Developer | Building Intelligent Solutions & Scalable APIs
 
----
-
-## 🛠️ **Tech Stack**
-
-### **Programming Languages**
-- **Python** 🐍
-- **TypeScript** 📘
-- **JavaScript** 📜
-
-### **Frameworks & Libraries**
-- **Web Frameworks:** Django, Flask, FastAPI, Svelte, Node.js
-- **Data Analysis:** Pandas, NumPy, Seaborn, Matplotlib
-- **Machine Learning:** TensorFlow, PyTorch, Keras, OpenCV
-
-### **Databases**
-- **SQL:** PostgreSQL, SQL Server, Redshift, SQLite
-- **NoSQL:** MongoDB
-
-### **Cloud & DevOps**
-- **Cloud Platforms:** AWS, Azure
-- **Containerization:** Docker 🐳
-- **CI/CD:** GitHub Actions
-- **Workflow Automation:** Airflow, LangChain
-
-### **Web Technologies**
-- **REST APIs**, MVC, HTML5, Tailwind CSS, NPM, Webpack
-- **Web Scraping:** Scrapy, Selenium, BeautifulSoup
-
-### **Testing Tools**
-- **Unit Testing:** Pytest, Jest, Mocha, Chai
-- **E2E Testing:** Cypress, Selenium, Robot
-
-### **Operating Systems**
-- **Linux:** Ubuntu, Kali Linux
-- **Windows** 🪟
-- **macOS** 🍏
-
----
-
 ## 💼 **Work Experience**
 
 ### **B/eye.ai** - *Full Stack Engineer* (03/2024 - 11/2024)
-- 🛠️ Built and enhanced a **Generative BI Platform** for self-service analytics.
-- 📊 Improved **data visualization** with advanced charting features.
-- 🛠️ Developed **dynamic workspace and channel settings**.
-- 🚀 Created a **customizable report generation tool** for data-driven decisions.
+- 🛠️ **Generative BI Platform Development**: Contributed to building a **Generative BI Platform** that empowers self-service analytics, enabling high-fidelity and high-velocity decision-making for businesses.
+- 📊 **Dashboard Enhancements**: Optimized and upgraded charting features using **Apache ECharts** and **Svelte**, delivering interactive and visually engaging data visualizations.
+- 🛠️ **Workspace & Channel Settings**: Implemented dynamic configuration and management features for workspaces and channels, allowing users to customize their analytics environment.
+- 🗂️ **Dataverse Settings**: Enabled customized dataverse settings for better data management, improving the platform's flexibility and scalability.
+- 📨 **User Invitation Module**: Created a streamlined process for inviting new users to the workspace, simplifying onboarding and improving user experience.
+- 👤 **User Settings**: Developed user-specific configuration options, providing a personalized experience across the platform.
+- 📈 **Future Skill Feature**: Built a customizable report generation tool, supporting dynamic reporting needs and facilitating data-driven decision-making.
+- 🛠️ **Tech Stack**: Polished skills in **Svelte**, **SvelteKit**, **Node.js**, **TypeScript**, **Redis**, **MongoDB**, and **FastAPI**, gaining hands-on experience in building scalable, high-performance applications.
 
 ### **Algo.ai** - *Fullstack Python Developer* (12/2020 - 09/2023)
 - 🛠️ Modernized web tools using **Python, Node.js, and TypeScript**.
@@ -93,20 +58,40 @@
 
 ---
 
-## 📂 **Projects**
+## 🛠️ **Tech Stack**
 
-### **Algo**
-- 🛠️ Designed backend modules for **new reports** and features using Python, Django, Polars, Pandas, and NumPy.
-- 🚀 Migrated microservices to **AWS CodeBuild**, optimizing deployment and reducing costs.
+### **Programming Languages**
+- **Python** 🐍
+- **TypeScript** 📘
+- **JavaScript** 📜
 
-### **KavTech Solutions Inc**
-- 🏠 Developed a **Keras-based classification system** for real estate ad sorting.
-- 🏈 Created an **NFL scorebook stats extractor** for automated data feeds.
-- 🛠️ Built **REST APIs** for NFL player analysis.
+### **Frameworks & Libraries**
+- **Web Frameworks:** Django, Flask, FastAPI, Svelte, Node.js
+- **Data Analysis:** Pandas, NumPy, Seaborn, Matplotlib
+- **Machine Learning:** TensorFlow, PyTorch, Keras, OpenCV
 
-### **Wizdojo Technologies**
-- 📊 Executed a **POC project** in audience analysis using live camera feeds.
-- 🤖 Explored **IoT** technologies for advanced camera networking.
+### **Databases**
+- **SQL:** PostgreSQL, SQL Server, Redshift, SQLite
+- **NoSQL:** MongoDB
+
+### **Cloud & DevOps**
+- **Cloud Platforms:** AWS, Azure
+- **Containerization:** Docker 🐳
+- **CI/CD:** GitHub Actions
+- **Workflow Automation:** Airflow, LangChain
+
+### **Web Technologies**
+- **REST APIs**, MVC, HTML5, Tailwind CSS, NPM, Webpack
+- **Web Scraping:** Scrapy, Selenium, BeautifulSoup
+
+### **Testing Tools**
+- **Unit Testing:** Pytest, Jest, Mocha, Chai
+- **E2E Testing:** Cypress, Selenium, Robot
+
+### **Operating Systems**
+- **Linux:** Ubuntu, Kali Linux
+- **Windows** 🪟
+- **macOS** 🍏
 
 ---
 
@@ -116,4 +101,3 @@
 - **LinkedIn:** [Ali Tahir](https://www.linkedin.com/in/ali-tahir1010)
 - **Email:** [alitahir231@gmail.com](mailto:alitahir231@gmail.com)
 
----
