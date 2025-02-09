@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Ali Tahir
+# Hi, I’m Ali Tahir
 
-### 🚀 Backend & AI Developer | Building Intelligent Solutions & Scalable APIs
+### Backend & AI Developer | Building Intelligent Solutions & Scalable APIs
 
-## 💼 **Work Experience**
+## 👨‍💻 **Work Experience**
 
 ### **B/eye.ai** - *Full Stack Engineer* (03/2024 - 11/2024)
 - 🛠️ **Generative BI Platform Development**: Contributed to building a **Generative BI Platform** that empowers self-service analytics, enabling high-fidelity and high-velocity decision-making for businesses.
