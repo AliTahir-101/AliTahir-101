@@ -117,5 +117,3 @@
 - **Email:** [alitahir231@gmail.com](mailto:alitahir231@gmail.com)
 
 ---
-
-🌟 **Thanks for visiting my GitHub profile!** Feel free to explore my projects and reach out if you'd like to collaborate or chat about tech! 🚀
