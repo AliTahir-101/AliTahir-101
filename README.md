@@ -84,10 +84,76 @@ Senior Software Engineer with extensive expertise in Python (80%) and JavaScript
 
 ---
 
+## 🛠️ **Tech Stack**
+
+<table>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td><strong>Frameworks & Libraries</strong></td>
+  </tr>
+  <tr>
+    <td>
+      • Python 🐍<br>
+      • TypeScript 📘<br>
+      • JavaScript 📜
+    </td>
+    <td>
+      <strong>Web:</strong> Django, Flask, FastAPI, Svelte, Node.js, Next.js<br>
+      <strong>Data:</strong> Pandas, NumPy, Seaborn, Matplotlib<br>
+      <strong>ML:</strong> TensorFlow, PyTorch, Keras, OpenCV
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td><strong>Cloud & DevOps</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <strong>SQL:</strong> PostgreSQL, SQL Server, Redshift, SQLite<br>
+      <strong>NoSQL:</strong> MongoDB
+    </td>
+    <td>
+      <strong>Cloud:</strong> AWS, Azure<br>
+      <strong>Containers:</strong> Docker 🐳<br>
+      <strong>CI/CD:</strong> GitHub Actions<br>
+      <strong>Automation:</strong> Airflow, LangChain, n8n
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Web Technologies</strong></td>
+    <td><strong>Testing Tools</strong></td>
+  </tr>
+  <tr>
+    <td>
+      REST APIs, MVC, HTML5, Tailwind CSS, NPM, Webpack<br>
+      <strong>Scraping:</strong> Scrapy, Selenium, BeautifulSoup
+    </td>
+    <td>
+      <strong>Unit:</strong> Pytest, Jest, Mocha, Chai<br>
+      <strong>E2E:</strong> Cypress, Selenium, Robot
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Operating Systems</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      Linux (Ubuntu, Kali Linux)<br>
+      Windows 🪟<br>
+      macOS 🍏
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
 ## 🎓 **Education**
 
 ### **Jamk University of Applied Sciences**
-- 🎓 **Master's Degree in Artificial Intelligence and Data Analytics** (09/2023 - 12/2024)
+- 🎓 **Master's Degree in Artificial Intelligence and Data Analytics** (09/2023 - 12/2024)  
+  [📄 Check out my thesis](https://github.com/AliTahir-101/finnish-traffic-sign-recognition)
 
 ### **University of Central Punjab Lahore**
 - 🎓 **Bachelor's Degree in Computer Science**  
@@ -108,43 +174,6 @@ Senior Software Engineer with extensive expertise in Python (80%) and JavaScript
 
 - **Urdu** (Mother Tongue) 🇵🇰
 - **English** (Fluent) 🇬🇧
-
----
-
-## 🛠️ **Tech Stack**
-
-### **Programming Languages**
-- **Python** 🐍
-- **TypeScript** 📘
-- **JavaScript** 📜
-
-### **Frameworks & Libraries**
-- **Web Frameworks:** Django, Flask, FastAPI, Svelte, Node.js, NextJs
-- **Data Analysis:** Pandas, NumPy, Seaborn, Matplotlib
-- **Machine Learning:** TensorFlow, PyTorch, Keras, OpenCV
-
-### **Databases**
-- **SQL:** PostgreSQL, SQL Server, Redshift, SQLite
-- **NoSQL:** MongoDB
-
-### **Cloud & DevOps**
-- **Cloud Platforms:** AWS, Azure
-- **Containerization:** Docker 🐳
-- **CI/CD:** GitHub Actions
-- **Workflow Automation:** Airflow, LangChain, n8n
-
-### **Web Technologies**
-- **REST APIs**, MVC, HTML5, Tailwind CSS, NPM, Webpack
-- **Web Scraping:** Scrapy, Selenium, BeautifulSoup
-
-### **Testing Tools**
-- **Unit Testing:** Pytest, Jest, Mocha, Chai
-- **E2E Testing:** Cypress, Selenium, Robot
-
-### **Operating Systems**
-- **Linux:** Ubuntu, Kali Linux
-- **Windows** 🪟
-- **macOS** 🍏
 
 ---
 
