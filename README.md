@@ -158,7 +158,7 @@ Senior Software Engineer with extensive expertise in Python (80%) and JavaScript
       </a>
     </td>
     <td>
-      <a href="mailto:alitahir231@gmail.com">
+      <a href="mailto:contact@alitahir.dev">
         <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="30">
       </a>
     </td>
