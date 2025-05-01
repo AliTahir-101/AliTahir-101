@@ -150,20 +150,26 @@ Senior Software Engineer with extensive expertise in Python (80%) and JavaScript
 
 ## 📫 **Let's Connect!**
 
-<p align="left">
-  <a href="https://github.com/AliTahir-101" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" height="30">
-  </a>
-  <a href="https://www.linkedin.com/in/ali-tahir1010" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" height="30">
-  </a>
-  <a href="mailto:contact@alitahir.dev" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" height="30">
-  </a>
-  <a href="https://x.com/Mr_AliTahir" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" height="30">
-  </a>
-</p>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/ali-tahir1010" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:alitahir231@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="30">
+      </a>
+    </td>
+    <td>
+      <a href="https://x.com/Mr_AliTahir" target="_blank">
+        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" height="30">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
